@@ -1,9 +1,4 @@
 
-
-# ProgImage API
-
-A project provides API to allowing uploading, rotating and retrieving pictures,coverting the format.
-
 ## Running Environment
 Windows  
 Python 3.5.4  
